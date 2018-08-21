@@ -2,12 +2,12 @@ import React, {Component} from 'react';
 import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 import './Landing.css'
-import main_landing from './main_landing.png';
-import projects_landing from './projects_landing.png';
-import events_landing from './events_landing.png';
-import achievements_landing from './achievements_landing.png';
-import about_landing from './about_landing.png';
-import contact_landing from './contact_landing.png';
+import main_landing from './main_landing.jpeg';
+import projects_landing from './projects_landing.jpeg';
+import events_landing from './events_landing.jpeg';
+import achievements_landing from './achievements_landing.jpeg';
+import about_landing from './about_landing.jpeg';
+import contact_landing from './contact_landing.jpeg';
 
 const Welcome = () => {
 	return (
