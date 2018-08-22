@@ -17,35 +17,41 @@ class KnowMAIT extends Component {
 							<div className="what">
 								<p className="heading">What We Do?</p>
 								<div className="desc">
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-									Repudiandae autem, harum fugiat animi minus voluptates quisquam repellendus, 
-									officia, natus neque iusto reprehenderit veritatis. Facilis blanditiis, voluptas,
-									ipsam numquam voluptatibus a, odit praesentium magnam tempora deleniti iusto aliquam 
-									molestias et exercitationem inventore? Ut delectus deserunt unde accusantium laboriosam,
-									veniam, hic atque.
+									We are a bunch of dedicated, inspired and zealous engineers in making, with constant endeavour
+									 to usher and ignite new technological possibilities in the field of Engineering. Being one of 
+									 the most active student branch of Delhi section, we, at IEEE MAIT try to blend technical as 
+									 well fascinating aspects of learning. IEEE MAIT organises a plethora of stimulating events 
+									 such as workshops on the buzzing and latest areas, competitions, 
+									 SIG’s(Student interest groups) and much more, all throughout the year. Since it’s 
+									 effective inception in 2015, we have tirelessly worked to earn the recognition as 
+									 “one of the best student branches of delhi section” and have portrayed technical, social, 
+									 humanitarian as well as managerial attributes of engineering. IEEE MAIT provides you a link 
+									 to regional and national level and enables you to access brilliant opportunities there and 
+									 make the best out of you. IEEE MAIT boasts a stern and passionate team of more than 80 
+									 hardworking individuals, working towards the common target of achieving the best.
 								</div>
 							</div>
 							<div className="why">
 								<p className="heading">Why We Do?</p>
 								<div className="desc">
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-									Repudiandae autem, harum fugiat animi minus voluptates quisquam repellendus, 
-									officia, natus neque iusto reprehenderit veritatis. Facilis blanditiis, voluptas,
-									ipsam numquam voluptatibus a, odit praesentium magnam tempora deleniti iusto aliquam 
-									molestias et exercitationem inventore? Ut delectus deserunt unde accusantium laboriosam,
-									veniam, hic atque.
+									The main purpose of IEEE MAIT student branch is to plan and execute technical and non-technical 
+									events, keeping in mind the best interest of IEEE members and other non-IEEE members of MAIT. 
+									These events revolve around developing technologies, not belonging to any strict curriculum 
+									and with sufficient resources from IEEE, these events help the participants develop an insight 
+									into topics of science and engineering. Committee's agenda is to not only enhance technical 
+									skills, but incubate valuable leadership experience in as many members as possible for the 
+									growth of both individuals and the student branch.
 								</div>
 							</div>
 							<div className="affinity">
-								<p className="heading">Affinity Group</p>
+								<p className="heading">Student Chapters</p>
 								<div className="affinity-desc">
 									<div className="wie">
 										<div className="wie-heading">Women In Engineering</div>
 										<div className="wie-desc">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci 
-											at illum eveniet ducimus earum ratione voluptatem laboriosam nihil
-											 reiciendis nostrum, asperiores alias rerum unde autem neque eos veniam 
-											 voluptatibus exercitationem fuga sapiente tenetur mollitia quam?
+											IEEE Women in Engineering (WIE) is one of the largest international professional 
+											organizations dedicated to promoting women engineers and scientists and inspiring 
+											girls around the world to follow their academic interests to a career in engineering.
 										</div>
 									</div>
 									<div className="wie-img">
@@ -77,17 +83,17 @@ class KnowMAIT extends Component {
 							<div className="coordinator">
 								<div className="number">12</div>
 								<img src={require('./coordinator.png')} alt=""/>
-								<div className="head">Coordinators</div>
+								<div className="head">Core Team</div>
 							</div>
 							<div className="executives">
 								<div className="number">9</div>
 								<img src={require('./executives.png')} alt=""/>
-								<div className="head">Executives</div>
+								<div className="head">Execom</div>
 							</div>
 							<div className="volunteers">
 								<div className="number">13</div>
 								<img src={require('./volunteer.png')} alt=""/>
-								<div className="head">Volunteers</div>
+								<div className="head">Associates</div>
 							</div>
 						</div>
 						<div className="footer">

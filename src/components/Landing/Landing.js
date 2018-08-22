@@ -54,8 +54,8 @@ const Contact = () => {
 					<div className="phone">
 						<img src={require('./phone.svg')} />
 						<div>
-							Tamal Dey: 99999451699<br/>
-							Gaurav Nigam: 99999451699
+							Tamal Dey: 8447932215<br/>
+							Gaurav Nigam: 9958781009
 						</div>
 					</div>
 				</div>
@@ -162,6 +162,8 @@ class Landing extends Component {
 				landing_bg = contact_landing;
 				break;
 		}
+
+		console.log(main_landing);
 
 		return(
 				<div className="overlay" style={ { backgroundImage: `url(${landing_bg})`, backgroundSize: `cover` } }>

@@ -20,52 +20,52 @@ class Team extends Component{
 		return(
 				<div className="execom">
 					<div className="member">
-						<img src={require('./member.png')} />
+						<img src={require('./counsellor.png')} />
 						<p className="name">Dr. Monika Gupta</p>
 						<p className="designation">Branch Counsellor</p>
 					</div>
 					<div className="member">
-						<img src={require('./member.png')} />
+						<img src={require('./chair.jpg')} />
 						<p className="name">Samraj Agarwal</p>
 						<p className="designation">Chairperson</p>
 					</div>
 					<div className="member">
-						<img src={require('./member.png')} />
+						<img src={require('./vice-chair.jpg')} />
 						<p className="name">Deepanshu Gupta</p>
 						<p className="designation">Vice-Chairperson</p>
 					</div>
 					<div className="member">
-						<img src={require('./member.png')} />
+						<img src={require('./wie-chair.png')} />
 						<p className="name">Srishti</p>
 						<p className="designation">WIE Chairperson</p>
 					</div>
 					<div className="member">
-						<img src={require('./member.png')} />
+						<img src={require('./secretary.jpg')} />
 						<p className="name">Suyash Ahluwalia</p>
 						<p className="designation">General Secretary</p>
 					</div>
 					<div className="member">
-						<img src={require('./member.png')} />
+						<img src={require('./treasurer.jpg')} />
 						<p className="name">Aman Mittal</p>
 						<p className="designation">Treasurer</p>
 					</div>
 					<div className="member">
-						<img src={require('./member.png')} />
+						<img src={require('./PR.jpg')} />
 						<p className="name">Tamal Dey</p>
 						<p className="designation">PR Executive</p>
 					</div>
 					<div className="member">
-						<img src={require('./member.png')} />
+						<img src={require('./tech.jpg')} />
 						<p className="name">Rohin Bhandari</p>
 						<p className="designation">Technical Coordinator</p>
 					</div>
 					<div className="member">
-						<img src={require('./member.png')} />
+						<img src={require('./joint.JPG')} />
 						<p className="name">Gaurav Mongia</p>
 						<p className="designation">Joint Secretary</p>
 					</div>
 					<div className="member">
-						<img src={require('./member.png')} />
+						<img src={require('./wie-vice-chair.jpg')} />
 						<p className="name">Tanish Goyal</p>
 						<p className="designation">WIE Vice-Chairperson</p>
 					</div>
@@ -82,7 +82,7 @@ class Team extends Component{
 						</div>
 						<div className="ext-overlay">
 							<div className="content">
-								<p className="name">Saumya Wardhan</p>
+								<p className="name">Avish Bhasin</p>
 							</div>
 						</div>
 					</div>
@@ -92,7 +92,7 @@ class Team extends Component{
 						</div>
 						<div className="ext-overlay">
 							<div className="content">
-								<p className="name"	>Tejaswi Kapoor</p>
+								<p className="name"	>Nishchay Anand</p>
 							</div>
 						</div>
 					</div>
@@ -102,7 +102,7 @@ class Team extends Component{
 						</div>
 						<div className="ext-overlay">
 							<div className="content">
-								<p className="name">Saumya Wardhan</p>
+								<p className="name">Gaurav Nigam</p>
 							</div>
 						</div>
 					</div>
@@ -112,7 +112,7 @@ class Team extends Component{
 						</div>
 						<div className="ext-overlay">
 							<div className="content">
-								<p className="name">Saumya Wardhan</p>
+								<p className="name">Avish Bhasin</p>
 							</div>
 						</div>
 					</div>
@@ -122,7 +122,7 @@ class Team extends Component{
 						</div>
 						<div className="ext-overlay">
 							<div className="content">
-								<p className="name"	>Tejaswi Kapoor</p>
+								<p className="name"	>Gaurav Nigam</p>
 							</div>
 						</div>
 					</div>
@@ -143,8 +143,8 @@ class Team extends Component{
 						<div className="ext-overlay">
 							<div className="content">
 								<p className="title">Promotional Squad</p>
-								<p className="name">Saumya Wardhan</p>
-								<p className="name"	>Tejaswi Kapoor</p>
+								<p className="name">Rupesh Karn</p>
+								<p className="name">Mehul Samrat</p>
 							</div>
 						</div>
 					</div>
@@ -167,8 +167,8 @@ class Team extends Component{
 						<div className="ext-overlay">
 							<div className="content">
 							<p className="title">Membership Coordinators</p>
-							<p className="name">Saumya Wardhan</p>
-							<p className="name"	>Tejaswi Kapoor</p>
+							<p className="name"	>Hershita Tully</p>
+							<p className="name"	>Mehul Samrat</p>
 						</div>
 						</div>
 					</div>
@@ -181,7 +181,7 @@ class Team extends Component{
 				<div className="team-nav">
 					<div className="one"></div>
 					<div className="two selected"><p>EXECOM</p></div>
-					<div className="three not-selected"><p onClick={() => this.setState({current: 'extended-execom'})}>EXTENDED EXECOM</p></div>
+					<div className="three not-selected"><p onClick={() => this.setState({current: 'extended-execom'})}>CORE TEAM</p></div>
 				</div>
 			)
 	}
@@ -190,7 +190,7 @@ class Team extends Component{
 				return (
 						<div className="team-nav">
 							<div className="one not-selected"><p  onClick={() => this.setState({current: 'execom'})}>EXECOM</p></div>
-							<div className="two selected"><p>EXTENDED EXECOM</p></div>
+							<div className="two selected"><p>CORE TEAM</p></div>
 							<div className="three"></div>
 						</div>
 					)
