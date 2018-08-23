@@ -163,8 +163,6 @@ class Landing extends Component {
 				break;
 		}
 
-		console.log(main_landing);
-
 		return(
 				<div className="overlay" style={ { backgroundImage: `url(${landing_bg})`, backgroundSize: `cover` } }>
 					{ temp }
