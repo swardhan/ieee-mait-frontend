@@ -45,7 +45,7 @@ class Team extends Component{
 						<p className="designation">General Secretary</p>
 					</div>
 					<div className="member">
-						<img src={require('./treasurer.jpg')} />
+						<img src={require('./treasurer.png')} />
 						<p className="name">Aman Mittal</p>
 						<p className="designation">Treasurer</p>
 					</div>

@@ -24,52 +24,16 @@ class Achievements extends Component {
 					<p className="title">Smart India Hackathon, 2017</p>
 					<div className="award-overlay">
 						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
+							Smart India Hackathon 2017 Winner
 						</div>
 					</div>
 				</div>
 				<div className="achievements">
-					<img src={require('./other.png')} />
-					<p className="title">Smart India Hackathon, 2017</p>
+					<img src={require('./design360.jpg')} />
+					<p className="title">Design 360 at IIIT Delhi, 2018</p>
 					<div className="award-overlay">
 						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
-						</div>
-					</div>
-				</div>
-				<div className="achievements">
-					<img src={require('./other.png')} />
-					<p className="title">Smart India Hackathon, 2017</p>
-					<div className="award-overlay">
-						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
-						</div>
-					</div>
-				</div>
-				<div className="achievements">
-					<img src={require('./other.png')} />
-					<p className="title">Smart India Hackathon, 2017</p>
-					<div className="award-overlay">
-						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
-						</div>
-					</div>
-				</div>
-				<div className="achievements">
-					<img src={require('./ieee5.png')} />
-					<p className="title">Smart India Hackathon, 2017</p>
-					<div className="award-overlay">
-						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
-						</div>
-					</div>
-				</div>
-				<div className="achievements">
-					<img src={require('./other.png')} />
-					<p className="title">Smart India Hackathon, 2017</p>
-					<div className="award-overlay">
-						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
+							Samraj and Aman were part of the team that were Runner's Up at Design360 Esya, 2018 held at IIIT Delhi.
 						</div>
 					</div>
 				</div>
@@ -85,7 +49,7 @@ class Achievements extends Component {
 					<p className="title">Outstanding Volunteer Award</p>
 					<div className="award-overlay">
 						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
+							Deepanshu Gupta was awarded with outstanding volunteer award for his invaluable cotribution to IEEE MAIT student branch for the past 3 years.
 						</div>
 					</div>
 				</div>
@@ -94,7 +58,7 @@ class Achievements extends Component {
 					<p className="title">Best Student Award</p>
 					<div className="award-overlay">
 						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
+							Ikjot Singh was awarded Best Student Award for his invaluable contribution to IEEE MAIT student branch.
 						</div>
 					</div>
 				</div>
@@ -103,7 +67,7 @@ class Achievements extends Component {
 					<p className="title">JK Pal Award</p>
 					<div className="award-overlay">
 						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
+							Swati Bansal was awarded JK Pal award for outstanding contribution towards the upliftment of IEEE MAIT student branch.
 						</div>
 					</div>
 				</div>
@@ -112,16 +76,16 @@ class Achievements extends Component {
 					<p className="title">Outstanding WIE Volunteer Award</p>
 					<div className="award-overlay">
 						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
+							Srishti was awarded Outstanding WIE volunteer award for outstanding contribution towards the WIE.
 						</div>
-					</div>
+				</div>
 				</div>
 				<div className="achievements">
 					<img src={require('./ieee2.png')} />
 					<p className="title">Best SB Counsellor Award</p>
 					<div className="award-overlay">
 						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
+							Ms. Monika Gupta was awarded Best Branch Counsellor for her valuable guidance and support.
 						</div>
 					</div>
 				</div>
@@ -130,7 +94,7 @@ class Achievements extends Component {
 					<p className="title">Delhi SSN Award</p>
 					<div className="award-overlay">
 						<div className="desc">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, reprehenderit!
+							Samraj Agarwal was awarded with The Delhi SSN award for his invaluable cotribution to Delhi SSN.
 						</div>
 					</div>
 				</div>
